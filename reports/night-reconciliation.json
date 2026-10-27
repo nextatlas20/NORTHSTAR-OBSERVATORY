@@ -1,0 +1,55 @@
+{
+  "campaign_date": "2093-10-04",
+  "target_count": 5,
+  "confirmed_count": 2,
+  "contested_count": 3,
+  "incomplete_count": 0,
+  "valid_exposure_count": 6,
+  "targets": [
+    {
+      "target_id": "TG-102",
+      "program": "COMET",
+      "rank": 1,
+      "required_minutes": 25,
+      "observed_minutes": 25,
+      "valid_exposure_count": 1,
+      "status": "CONTESTED"
+    },
+    {
+      "target_id": "TG-101",
+      "program": "AURORA",
+      "rank": 2,
+      "required_minutes": 20,
+      "observed_minutes": 20,
+      "valid_exposure_count": 1,
+      "status": "CONTESTED"
+    },
+    {
+      "target_id": "TG-103",
+      "program": "AURORA",
+      "rank": 3,
+      "required_minutes": 30,
+      "observed_minutes": 30,
+      "valid_exposure_count": 2,
+      "status": "CONFIRMED"
+    },
+    {
+      "target_id": "TG-104",
+      "program": "NEBULA",
+      "rank": 4,
+      "required_minutes": 20,
+      "observed_minutes": 20,
+      "valid_exposure_count": 1,
+      "status": "CONTESTED"
+    },
+    {
+      "target_id": "TG-105",
+      "program": "COMET",
+      "rank": 5,
+      "required_minutes": 15,
+      "observed_minutes": 15,
+      "valid_exposure_count": 1,
+      "status": "CONFIRMED"
+    }
+  ]
+}
